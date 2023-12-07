@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     description="A Python package for analyzing Car Dataset",
     author="Firasath",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/your_package_repo",
+    author_email="fmohamm1@mail.yu.edu",
+    url="https://github.com/Firasathalimohammed/Predictive_Modeling",
     install_requires=["pandas", "numpy", "matplotlib", "seaborn", "scikit-learn"],
 )
