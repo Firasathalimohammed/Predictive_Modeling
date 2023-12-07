@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: src.Car-analysis
+Version: 0.1
+Summary: A Python package for analyzing Car Dataset
+Home-page: https://github.com/yourusername/your_package_repo
+Author: Firasath
+Author-email: your.email@example.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn

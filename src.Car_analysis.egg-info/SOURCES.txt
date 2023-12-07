@@ -1,0 +1,6 @@
+setup.py
+src.Car_analysis.egg-info/PKG-INFO
+src.Car_analysis.egg-info/SOURCES.txt
+src.Car_analysis.egg-info/dependency_links.txt
+src.Car_analysis.egg-info/requires.txt
+src.Car_analysis.egg-info/top_level.txt
